@@ -26,17 +26,3 @@ npm run dev
 - **API Request Throttling**: Handles time limits on API requests to ensure app responsiveness.
 - **Responsive Design**: Optimized for a resolution of 1280x560, with full adaptability to tablet and mobile devices.
 
-## Getting Started
-
-Follow these steps to get MOVIEmax up and running on your local machine:
-
-### Prerequisites
-
-Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MOVIEmax.git
-   cd MOVIEmax
