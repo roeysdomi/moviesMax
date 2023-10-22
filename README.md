@@ -16,7 +16,7 @@ MOVIEmax is a captivating React application tailored for movie enthusiasts. Buil
 Start the development server:
 ```bash
 npm run dev
-
+  ```
 ## Features
  -**favorites**: in order to see the favoriate section choose at least 1 movie as your favorite.
 - **Error Handling**: Robust error handling to ensure a seamless user experience.
