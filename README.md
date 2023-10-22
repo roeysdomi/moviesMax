@@ -1,4 +1,4 @@
-# MOVIEmax
+# MOVIEMAX
 
 MOVIEmax is a captivating React application tailored for movie enthusiasts. Built with Vite, this app provides a streamlined and intuitive user interface for exploring a vast array of cinematic selections. The application maintains a solid error handling mechanism, ensuring smooth user interactions even when the unexpected happens. Leveraging React hooks, MOVIEmax is organized to be scalable, making future expansions a breeze.
 
